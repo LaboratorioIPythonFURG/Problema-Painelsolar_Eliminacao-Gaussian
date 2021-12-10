@@ -1,5 +1,5 @@
 # Problema
-Um painel solar térmico (superfície negra ideal) possui 3 vidros completamente transparentes para a radiação solar, e com absorvidade $a$ a para a radiação infravermelha. A Figura 1 mostra o diagrama de fluxos radiatvos desse painel.
+Um painel solar térmico (superfície negra ideal) possui 3 vidros completamente transparentes para a radiação solar, e com absorvidade $a$ a para a radiação infravermelha. A Figura 1 mostra o diagrama de fluxos radiativos desse painel.
 
 <img src="imgs/painel.png" width="400px" style="display: block; margin:auto" />
 
